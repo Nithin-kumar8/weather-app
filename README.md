@@ -1,4 +1,4 @@
-# weather_map
+# weather app
 
 ## Verification Summary ✅
 
